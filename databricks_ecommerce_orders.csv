@@ -1,0 +1,181 @@
+order_id,order_date,customer_id,city,product_category,product_name,quantity,unit_price,discount_pct,payment_method,order_status,shipping_days
+ORD0001,2026-08-29,CUST1028,Bengaluru,Electronics,Wireless Mouse,3.0,599,0.0,Net Banking,Delivered,2.0
+ORD0002,2026-08-30,CUST1013,Belagavi,Electronics,Wireless Mouse,1.0,599,0.0,Net Banking,Cancelled,
+ORD0003,2026-09-05,CUST1018,Mysuru,Books,SQL Guide,4.0,550,0.15,Debit Card,Delivered,3.0
+ORD0004,2026-08-12,CUST1039,Chennai,Home,Desk Lamp,3.0,799,0.0,Debit Card,Shipped,2.0
+ORD0005,2026-08-16,CUST1024,Mumbai,Fashion,Backpack,4.0,1499,0.15,Net Banking,Shipped,2.0
+ORD0006,2026-09-07,CUST1018,Bengaluru,Home,Water Bottle,1.0,299,0.0,Cash on Delivery,Delivered,4.0
+ORD0007,2026-09-15,CUST1041,Bengaluru,Books,Data Engineering,2.0,750,0.05,Net Banking,Delivered,5.0
+ORD0008,2026-09-18,CUST1015,Chennai,Home,Desk Lamp,2.0,799,0.1,UPI,Delivered,4.0
+ORD0009,2026-08-09,CUST1026,Hyderabad,Electronics,Headphones,4.0,1999,0.05,Cash on Delivery,Delivered,6.0
+ORD0010,2026-09-01,CUST1026,Mysuru,Books,SQL Guide,3.0,550,0.0,Net Banking,Returned,5.0
+ORD0011,2026-10-03,CUST1041,Bengaluru,Fashion,T-Shirt,2.0,499,0.15,Credit Card,Delivered,1.0
+ORD0012,2026-09-18,CUST1017,Hubballi,Home,Bedsheet,1.0,1199,0.1,Net Banking,Cancelled,
+ORD0013,2026-08-15,CUST1001,Pune,Electronics,Wireless Mouse,3.0,599,0.05,Cash on Delivery,Delivered,7.0
+ORD0014,2026-10-04,CUST1024,Hyderabad,Fashion,T-Shirt,1.0,499,0.05,Credit Card,Cancelled,
+ORD0015,2026-08-03,CUST1004,Mumbai,Home,Water Bottle,3.0,299,0.1,Credit Card,Delivered,6.0
+ORD0016,2026-08-09,CUST1043,Pune,Home,Water Bottle,1.0,299,0.1,Credit Card,Cancelled,
+ORD0017,2026-09-24,CUST1043, mumbai ,Books,SQL Guide,3.0,550,0.15,Cash on Delivery,Delivered,4.0
+ORD0018,2026-09-01,CUST1038,Chennai,Fashion,Wallet,4.0,699,0.0,UPI,Delivered,2.0
+ORD0019,2026-08-08,CUST1005,Belagavi,Home,Desk Lamp,1.0,799,0.0,Debit Card,Delivered,2.0
+ORD0020,2026-10-09,CUST1027,Hyderabad,Home,Storage Box,4.0,499,0.0,Cash on Delivery,Delivered,8.0
+ORD0021,2026-09-15,CUST1044,Hubballi,Home,Water Bottle,1.0,299,0.1,UPI,Shipped,7.0
+ORD0022,2026-08-14,CUST1029,Hyderabad,Electronics,Wireless Mouse,4.0,599,0.05,Net Banking,Delivered,4.0
+ORD0023,2026-09-29,CUST1007,Hubballi,Home,Bedsheet,2.0,1199,0.05,,Delivered,2.0
+ORD0024,2026-08-22,CUST1026,Hubballi,Electronics,Wireless Mouse,1.0,599,0.0,Credit Card,Shipped,8.0
+ORD0025,2026-09-19,CUST1045,Mumbai,Electronics,Keyboard,4.0,1299,0.0,Cash on Delivery,Delivered,8.0
+ORD0026,2026-08-28,CUST1004,Chennai,Books,SQL Guide,2.0,550,0.05,UPI,Delivered,1.0
+ORD0027,2026-08-11,CUST1026,Bengaluru,Books,SQL Guide,1.0,550,0.15,Credit Card,Delivered,2.0
+ORD0028,2026-08-11,CUST1043,Mumbai,Electronics,Keyboard,1.0,1299,0.15,Credit Card,Shipped,6.0
+ORD0029,2026-08-17,CUST1005,Hubballi,Fashion,T-Shirt,3.0,499,0.1,Debit Card,Returned,5.0
+ORD0030,2026-10-08,CUST1005,Pune,Electronics,USB Hub,1.0,899,0.0,Debit Card,Delivered,5.0
+ORD0031,2026-09-26,CUST1042,Mumbai,Home, Storage Box ,3.0,499,0.0,Net Banking,Cancelled,
+ORD0032,2026-09-03,CUST1019,Pune,Electronics,Headphones,1.0,1999,0.0,Debit Card,Delivered,2.0
+ORD0033,2026-10-04,CUST1041,Belagavi,Home,Storage Box,2.0,499,0.05,UPI,Shipped,5.0
+ORD0034,2026-09-12,CUST1036,Pune,Books,Data Engineering,1.0,750,0.0,Cash on Delivery,Delivered,5.0
+ORD0035,2026-08-20,CUST1038,Belagavi,Books,Python Basics,1.0,450,0.0,Debit Card,Cancelled,
+ORD0036,2026-09-09,CUST1044,Chennai,Home,Bedsheet,2.0,1199,0.0,Credit Card,Delivered,1.0
+ORD0037,2026-09-22,CUST1011,Pune,Home,Water Bottle,3.0,299,0.15,Credit Card,Cancelled,
+ORD0038,2026-09-12,CUST1045,Mumbai,Home,Bedsheet,1.0,1199,0.0,Credit Card,Shipped,4.0
+ORD0039,2026-08-29,CUST1015,Chennai,Electronics,USB Hub,1.0,899,0.1,Debit Card,Delivered,8.0
+ORD0040,2026-09-12,CUST1042,Mumbai,Home,Water Bottle,2.0,299,0.1,Debit Card,Delivered,2.0
+ORD0041,2026-09-03,CUST1039,Belagavi,Books,Data Engineering,1.0,750,0.0,UPI,Delivered,5.0
+ORD0042,2026-10-05,CUST1003,Hyderabad,Books,Data Engineering,3.0,750,0.1,Debit Card,Delivered,7.0
+ORD0043,2026-09-25,CUST1020,Chennai,Books,Python Basics,2.0,450,0.05,UPI,Delivered,6.0
+ORD0044,2026-09-07,CUST1027,Pune,Fashion,Wallet,,699,0.1,Credit Card,Cancelled,
+ORD0045,2026-10-10,CUST1028,Mumbai,Books,SQL Guide,3.0,550,0.1,Credit Card,Delivered,5.0
+ORD0046,2026-08-28,CUST1043,Hubballi,Fashion,Wallet,4.0,699,0.1,Credit Card,Cancelled,
+ORD0047,2026-08-31,CUST1010,Hyderabad,Electronics,Headphones,3.0,1999,0.0,Credit Card,Returned,5.0
+ORD0048,2026-08-10,CUST1032,Hyderabad,Electronics,Wireless Mouse,2.0,599,0.1,Cash on Delivery,Shipped,7.0
+ORD0049,2026-08-14,CUST1030,Pune,Books,SQL Guide,2.0,550,0.0,Net Banking,Shipped,4.0
+ORD0050,2026-08-18,CUST1033,Hubballi,Electronics,Keyboard,1.0,1299,0.1,Net Banking,Shipped,6.0
+ORD0051,2026-09-27,CUST1032,Mumbai,Books,Cloud Computing,2.0,650,0.1,Net Banking,Delivered,4.0
+ORD0052,2026-09-06,CUST1035,Chennai,Home,Storage Box,4.0,499,0.0,Debit Card,Delivered,5.0
+ORD0053,2026-09-19,CUST1027,Hyderabad,Electronics,Keyboard,2.0,1299,0.0,UPI,Returned,3.0
+ORD0054,2026-08-08,CUST1045,Mysuru,Books,Data Engineering,4.0,750,0.1,Net Banking,Delivered,7.0
+ORD0055,2026-09-15,CUST1035,Mysuru,Electronics,USB Hub,4.0,899,0.0,Net Banking,Delivered,7.0
+ORD0056,2026-09-25,CUST1043,Mysuru,Home,Bedsheet,2.0,1199,0.05,Debit Card,Shipped,1.0
+ORD0057,2026-10-08,CUST1042,Belagavi,Books,SQL Guide,4.0,550,0.0,UPI,Delivered,7.0
+ORD0058,2026-08-07,CUST1030, chennai ,Books,SQL Guide,4.0,550,0.0,Credit Card,Delivered,7.0
+ORD0059,2026-09-23,CUST1035,Hubballi,Fashion,Sneakers,4.0,2499,0.05,UPI,Delivered,2.0
+ORD0060,2026-08-06,CUST1040,Hyderabad,Electronics,Headphones,2.0,1999,0.0,UPI,Delivered,4.0
+ORD0061,2026-08-15,CUST1045,Hyderabad,Home,Desk Lamp,2.0,799,0.1,Cash on Delivery,Cancelled,
+ORD0062,2026-08-15,CUST1002,Bengaluru,Fashion,Sneakers,2.0,2499,0.15,Net Banking,Delivered,5.0
+ORD0063,2026-08-10,CUST1045,Hyderabad,Fashion,Wallet,4.0,699,0.0,UPI,Cancelled,
+ORD0064,2026-10-08,CUST1042,Bengaluru,Fashion,Backpack,1.0,1499,0.05,Net Banking,Shipped,6.0
+ORD0065,2026-08-14,CUST1028,Hubballi,Fashion,Backpack,4.0,1499,0.1,Credit Card,Shipped,6.0
+ORD0066,2026-09-25,CUST1006,Chennai,Home,Storage Box,4.0,499,0.1,Credit Card,Returned,5.0
+ORD0067,2026-10-12,CUST1002,Mysuru,Fashion,Wallet,2.0,699,0.1,Debit Card,Cancelled,
+ORD0068,2026-08-28,CUST1039,Chennai,Books,Data Engineering,2.0,750,0.1,Debit Card,Delivered,5.0
+ORD0069,2026-08-31,CUST1016,Hubballi,Fashion,Backpack,2.0,1499,0.0,Net Banking,Returned,7.0
+ORD0070,2026-08-12,CUST1020,Mysuru,Books,Cloud Computing,4.0,650,0.0,Credit Card,Delivered,4.0
+ORD0071,2026-10-10,CUST1020,Hubballi,Fashion,Wallet,3.0,699,0.1,Debit Card,Delivered,6.0
+ORD0072,2026-09-10,CUST1031,Hyderabad,Fashion,T-Shirt,1.0,499,0.0,Credit Card,Delivered,3.0
+ORD0073,2026-09-07,CUST1001,Pune,Fashion,Sneakers,1.0,2499,0.0,Debit Card,Delivered,6.0
+ORD0074,2026-10-10,CUST1001,Hubballi,Home,Storage Box,1.0,499,0.0,UPI,Delivered,3.0
+ORD0075,2026-09-13,CUST1008,Mumbai,Fashion,Wallet,4.0,699,0.1,Cash on Delivery,Delivered,1.0
+ORD0076,2026-10-13,CUST1037,Pune,Electronics,USB Hub,4.0,899,0.0,Credit Card,,1.0
+ORD0077,2026-10-11,CUST1029,Mysuru,Fashion,Backpack,2.0,1499,0.0,Cash on Delivery,Shipped,4.0
+ORD0078,2026-08-08,CUST1041,Bengaluru,Fashion,Wallet,3.0,699,0.15,Credit Card,Cancelled,
+ORD0079,2026-08-31,CUST1027,Pune,Home,Storage Box,1.0,499,0.0,UPI,Delivered,2.0
+ORD0080,2026-08-30,CUST1044,Hubballi,Books,Cloud Computing,3.0,650,0.0,UPI,Delivered,5.0
+ORD0081,2026-08-15,CUST1018,Hyderabad,Home,Storage Box,2.0,499,0.1,Credit Card,Cancelled,
+ORD0082,2026-09-09,CUST1008,Mumbai,Home,Water Bottle,1.0,299,0.0,Cash on Delivery,Cancelled,
+ORD0083,2026-10-04,CUST1006,Hubballi,Books,Data Engineering,4.0,750,0.05,Cash on Delivery,Cancelled,
+ORD0084,2026-09-02,CUST1038,Hyderabad,Electronics,USB Hub,3.0,899,0.15,Net Banking,Delivered,2.0
+ORD0085,2026-09-30,CUST1012,Hubballi,Electronics,Headphones,1.0,1999,0.0,Debit Card,Cancelled,
+ORD0086,2026-09-14,CUST1011,Chennai,Books,Cloud Computing,1.0,650,0.1,UPI,Shipped,6.0
+ORD0087,2026-09-21,CUST1006,Belagavi,Fashion,Wallet,4.0,699,0.05,Cash on Delivery,Cancelled,
+ORD0088,2026-09-21,CUST1030,Belagavi,Fashion,Sneakers,3.0,-250,0.0,Net Banking,Cancelled,
+ORD0089,2026-09-16,CUST1004,Hubballi,Books,Python Basics,2.0,450,0.15,Cash on Delivery,Cancelled,
+ORD0090,2026-09-26,CUST1041,Bengaluru,Home,Storage Box,2.0,499,0.05,UPI,Returned,8.0
+ORD0091,2026-08-02,CUST1015,Mysuru,Home,Desk Lamp,3.0,799,0.15,,Cancelled,
+ORD0092,2026-10-03,CUST1031,Mumbai,Electronics,USB Hub,1.0,899,0.0,Cash on Delivery,Returned,5.0
+ORD0093,2026-08-19,CUST1018,Pune,Books,SQL Guide,4.0,550,0.15,UPI,Shipped,4.0
+ORD0094,2026-09-06,CUST1029,Hubballi,Books,Data Engineering,3.0,750,0.0,Credit Card,Returned,5.0
+ORD0095,2026-10-09,CUST1045,Chennai,Books,Data Engineering,3.0,750,0.15,Credit Card,Shipped,8.0
+ORD0096,2026-08-06,CUST1043,Mysuru,Home,Bedsheet,2.0,1199,0.1,Cash on Delivery,Delivered,8.0
+ORD0097,2026-10-04,CUST1029,Chennai,Home,Bedsheet,1.0,1199,0.0,UPI,Cancelled,
+ORD0098,2026-09-22,CUST1017,Bengaluru,Electronics,USB Hub,1.0,899,0.0,Cash on Delivery,Returned,3.0
+ORD0099,2026-10-08,CUST1003,Hubballi,Fashion,Wallet,1.0,699,0.05,Net Banking,Shipped,6.0
+ORD0100,2026-08-12,CUST1011,Bengaluru,Electronics,Keyboard,3.0,1299,0.0,Cash on Delivery,Shipped,2.0
+ORD0101,2026-08-08,CUST1010,Chennai,Fashion,Backpack,1.0,1499,0.05,Cash on Delivery,Delivered,6.0
+ORD0102,2026-08-23,CUST1038,Hyderabad,Home,Bedsheet,2.0,1199,0.0,Cash on Delivery,Delivered,7.0
+ORD0103,2026-09-28,CUST1044,Hubballi,Home,Desk Lamp,4.0,799,0.05,Debit Card,Delivered,1.0
+ORD0104,2026-10-15,CUST1020,Mumbai,Home,Water Bottle,4.0,299,0.05,Cash on Delivery,Delivered,7.0
+ORD0105,2026-08-31,CUST1002,Mumbai,Home,Bedsheet,4.0,1199,0.0,Debit Card,Shipped,6.0
+ORD0106,2026-08-07,CUST1015,Hubballi,Books,Data Engineering,1.0,750,0.15,Debit Card,Cancelled,
+ORD0107,2026-09-02,CUST1020,Bengaluru,Fashion,T-Shirt,2.0,499,0.15,UPI,Returned,3.0
+ORD0108,2026-08-12,CUST1013,Mysuru,Books,Python Basics,3.0,450,0.0,Credit Card,Delivered,6.0
+ORD0109,2026-09-02,CUST1030,Chennai,Home,Storage Box,3.0,499,0.0,UPI,Shipped,5.0
+ORD0110,2026-10-11,CUST1017,Mysuru,Electronics,Keyboard,2.0,1299,0.1,UPI,Delivered,2.0
+ORD0111,2026-10-14,CUST1031,Bengaluru,Electronics,USB Hub,3.0,899,0.05,Credit Card,Shipped,6.0
+ORD0112,2026-09-29,CUST1009,Mysuru,Electronics,Headphones,2.0,1999,0.0,UPI,Returned,5.0
+ORD0113,2026-08-15,CUST1030,Pune,Electronics,Wireless Mouse,3.0,599,0.1,Cash on Delivery,Delivered,4.0
+ORD0114,2026-08-13,CUST1045,Mumbai,Fashion,Wallet,2.0,699,0.1,UPI,Shipped,7.0
+ORD0115,2026-08-31,CUST1042,Chennai,Fashion,T-Shirt,4.0,499,0.1,Net Banking,Delivered,2.0
+ORD0116,2026-08-25,CUST1042,Bengaluru,Fashion,Backpack,4.0,1499,0.05,Credit Card,Delivered,8.0
+ORD0117,2026-08-17,CUST1036,Hyderabad,Electronics,Wireless Mouse,3.0,599,0.0,UPI,Cancelled,
+ORD0118,2026-08-19,CUST1010,Belagavi,Home,Desk Lamp,2.0,799,0.05,Debit Card,Cancelled,
+ORD0119,2026-08-04,CUST1038,Chennai,Home, Storage Box ,2.0,499,0.0,Credit Card,Delivered,1.0
+ORD0120,2026-08-07,CUST1031,Bengaluru,Fashion,Backpack,2.0,1499,0.05,UPI,Delivered,7.0
+ORD0121,2026-10-04,CUST1042,Mumbai,Books,Data Engineering,1.0,750,0.1,Cash on Delivery,Delivered,1.0
+ORD0122,2026-09-24,CUST1005,Hubballi,Electronics,Wireless Mouse,4.0,599,0.1,Cash on Delivery,Returned,2.0
+ORD0123,2026-08-17,CUST1034,Mysuru,Electronics,Headphones,2.0,1999,0.0,Net Banking,Delivered,6.0
+ORD0124,2026-08-15,CUST1015,Mysuru,Fashion,Wallet,4.0,699,0.0,Cash on Delivery,Returned,4.0
+ORD0125,2026-09-23,CUST1021,Chennai,Books,Data Engineering,4.0,750,0.1,Cash on Delivery,Returned,2.0
+ORD0126,2026-08-09,CUST1007,Bengaluru,Fashion,Sneakers,2.0,2499,0.1,Cash on Delivery,Delivered,2.0
+ORD0127,2026-10-11,CUST1027,Chennai,Fashion,T-Shirt,1.0,499,0.15,UPI,Cancelled,
+ORD0128,2026-09-09,CUST1043,Hyderabad,Fashion,Wallet,1.0,699,0.05,Credit Card,Delivered,2.0
+ORD0129,2026-10-11,CUST1015,Mumbai,Books,SQL Guide,1.0,550,0.05,Net Banking,Delivered,2.0
+ORD0130,2026-08-24,CUST1001,Chennai,Books,Python Basics,3.0,450,0.0,Debit Card,Delivered,5.0
+ORD0131,2026-08-19,CUST1014,Bengaluru,Home,Desk Lamp,4.0,799,0.0,Net Banking,Returned,1.0
+ORD0132,2026-08-21,CUST1039,Chennai,Books,Cloud Computing,4.0,650,0.05,Net Banking,Delivered,5.0
+ORD0133,2026-08-07,CUST1043,Mumbai,Electronics,Wireless Mouse,,599,0.0,Cash on Delivery,Returned,2.0
+ORD0134,2026-09-04,CUST1008,Chennai,Books,Cloud Computing,4.0,650,0.1,Cash on Delivery,Delivered,2.0
+ORD0135,2026-08-29,CUST1020,Belagavi,Fashion,Wallet,3.0,699,0.0,Credit Card,Shipped,1.0
+ORD0136,2026-09-11,CUST1012,Hubballi,Home,Desk Lamp,3.0,799,0.05,Cash on Delivery,Delivered,1.0
+ORD0137,2026-10-11,CUST1003,Bengaluru,Home,Bedsheet,2.0,1199,0.15,Cash on Delivery,Returned,6.0
+ORD0138,2026-09-10,CUST1026,Mysuru,Books,Python Basics,4.0,450,0.0,Net Banking,Cancelled,
+ORD0139,2026-08-03,CUST1006,Hubballi,Books,Data Engineering,1.0,750,0.1,Debit Card,Delivered,3.0
+ORD0140,2026-10-15,CUST1022,Mysuru,Books,Python Basics,2.0,450,0.1,Debit Card,Shipped,2.0
+ORD0141,2026-10-05,CUST1023,Hyderabad,Home,Storage Box,2.0,499,0.0,Debit Card,Returned,2.0
+ORD0142,2026-09-02,CUST1012,Pune,Home,Desk Lamp,1.0,799,0.0,UPI,Delivered,3.0
+ORD0143,2026-09-11,CUST1005,Pune,Books,Cloud Computing,4.0,650,0.15,Cash on Delivery,Returned,6.0
+ORD0144,2026-10-15,CUST1030,Bengaluru,Books,Cloud Computing,3.0,650,0.05,Debit Card,Delivered,6.0
+ORD0145,2026-09-06,CUST1038,Mysuru,Books,Python Basics,1.0,450,0.05,Cash on Delivery,Delivered,2.0
+ORD0146,2026-09-30,CUST1029,Pune,Electronics,USB Hub,2.0,899,0.05,UPI,Cancelled,
+ORD0147,2026-08-23,CUST1034,Hubballi,Electronics,Headphones,1.0,1999,0.15,Cash on Delivery,Delivered,4.0
+ORD0148,2026-09-19,CUST1005,Belagavi,Home,Storage Box,3.0,499,0.05,Debit Card,Shipped,6.0
+ORD0149,2026-09-02,CUST1038,Chennai,Fashion,Backpack,4.0,1499,0.05,UPI,Returned,3.0
+ORD0150,2026-08-17,CUST1036,Bengaluru,Home,Storage Box,3.0,499,0.1,Debit Card,Cancelled,
+ORD0151,2026-08-12,CUST1024,Chennai,Books,Data Engineering,2.0,750,0.15,UPI,,7.0
+ORD0152,2026-10-02,CUST1005,Pune,Fashion,T-Shirt,2.0,499,0.05,Credit Card,Delivered,4.0
+ORD0153,2026-08-17,CUST1011,Mysuru,Fashion,Backpack,1.0,1499,0.05,Credit Card,Cancelled,
+ORD0154,2026-09-22,CUST1019,Hubballi,Home,Desk Lamp,4.0,799,0.0,Net Banking,Delivered,4.0
+ORD0155,2026-09-30,CUST1019,Hubballi,Books,SQL Guide,2.0,550,0.05,Cash on Delivery,Delivered,6.0
+ORD0156,2026-08-18,CUST1036,Hubballi,Books,Cloud Computing,2.0,650,0.0,Debit Card,Delivered,1.0
+ORD0157,2026-08-21,CUST1006,Pune,Electronics,Wireless Mouse,3.0,599,0.0,Cash on Delivery,Delivered,8.0
+ORD0158,2026-09-23,CUST1025,Chennai,Home,Bedsheet,3.0,1199,0.0,Credit Card,Delivered,7.0
+ORD0159,2026-09-10,CUST1003,Pune,Electronics,Headphones,2.0,1999,0.0,Credit Card,Delivered,6.0
+ORD0160,2026-09-27,CUST1002,Belagavi,Fashion,Wallet,2.0,699,0.1,UPI,Cancelled,
+ORD0161,2026-10-07,CUST1020,Mumbai,Fashion,T-Shirt,2.0,499,0.15,Credit Card,Shipped,2.0
+ORD0162,2026-09-28,CUST1035,Hubballi,Electronics,Wireless Mouse,2.0,599,0.1,Net Banking,Delivered,2.0
+ORD0163,2026-09-24,CUST1027,Hyderabad,Electronics,Keyboard,2.0,1299,0.05,Net Banking,Delivered,6.0
+ORD0164,2026-10-07,CUST1031,Belagavi,Home,Water Bottle,3.0,299,0.0,Cash on Delivery,Cancelled,
+ORD0165,2026-08-03,CUST1043,Chennai,Electronics,USB Hub,3.0,899,0.05,Credit Card,Delivered,2.0
+ORD0166,2026-09-15,CUST1044,Chennai,Electronics,Headphones,2.0,1999,0.0,Credit Card,Cancelled,
+ORD0167,2026-08-09,CUST1013,Belagavi,Books,Cloud Computing,2.0,650,0.0,Debit Card,Returned,8.0
+ORD0168,2026-09-09,CUST1031,Mysuru,Electronics,Keyboard,1.0,1299,0.05,Net Banking,Cancelled,
+ORD0169,2026-09-15,CUST1024,Mumbai,Fashion,Backpack,2.0,1499,0.05,UPI,Delivered,6.0
+ORD0170,2026-09-13,CUST1034,Hubballi,Books,Cloud Computing,4.0,650,0.1,Debit Card,Delivered,8.0
+ORD0171,2026-09-25,CUST1019,Pune,Fashion,Backpack,4.0,1499,0.0,Net Banking,Cancelled,
+ORD0172,2026-09-07,CUST1045,Mysuru,Fashion,Backpack,1.0,1499,0.05,Credit Card,Delivered,8.0
+ORD0173,2026-09-15,CUST1041,Mysuru,Books,Data Engineering,4.0,750,0.0,Debit Card,Cancelled,
+ORD0174,2026-10-05,CUST1039,Belagavi,Electronics,Wireless Mouse,4.0,599,0.05,Credit Card,Returned,3.0
+ORD0175,2026-08-31,CUST1037,Chennai,Books,Python Basics,2.0,450,0.0,Cash on Delivery,Returned,6.0
+ORD0176,2026-09-17,CUST1024,Pune,Electronics,Keyboard,4.0,1299,0.05,Net Banking,Shipped,2.0
+ORD0177,2026-08-15,CUST1025,Hubballi,Books,Data Engineering,3.0,750,0.0,Net Banking,Delivered,3.0
+ORD0178,2026-08-28,CUST1013,Mumbai,Electronics,Headphones,3.0,1999,0.1,Cash on Delivery,Cancelled,
+ORD0179,2026-08-23,CUST1043,Bengaluru,Electronics,Keyboard,1.0,1299,0.1,Debit Card,Returned,8.0
+ORD0180,2026-08-21,CUST1015,Chennai,Fashion,Backpack,3.0,1499,0.05,Net Banking,Returned,3.0
